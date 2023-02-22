@@ -1,5 +1,5 @@
 {
-  "name": "Event-Manager",
+  "name": "react-rails-crud",
   "private": "true",
   "dependencies": {
     "@hotwired/stimulus": "^3.0.1",
